@@ -1,4 +1,4 @@
-# Hey Waldo
+# There's Waldo! (Forked from Hey Waldo)
 
 [![License](https://img.shields.io/badge/License-ODbL%201.0-blue.svg)](https://opendatacommons.org/licenses/odbl/1.0/)
 
